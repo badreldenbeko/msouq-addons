@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <template id="assets_backend" name="web_enterprise assets backend" inherit_id="web.assets_frontend">
+        <xpath expr="//link[last()]" position="after">
+            <script type="text/javascript" src="/slide_local_video/static/src/js/fullscreen.js"/>
+        </xpath>
+    </template>
+</odoo>

@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_slide_local_video_slide_local_video,slide_local_video.slide_local_video,model_slide_local_video_slide_local_video,base.group_user,1,1,1,1
